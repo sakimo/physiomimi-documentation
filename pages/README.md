@@ -86,8 +86,7 @@ VISAGE: A Query Interface for Clinical Research. AMIA Summits on Translational S
 
 
 <div class="center">
-  <a href="http://physiomimi.case.edu" class="btn btn-lg btn-primary">
+  <a href="http://physiomimi.case.edu" class="btn btn-lg btn-default">
     Learn More!
-    <span class="glyphicon glyphicon-new-window"></span>
   </a>
 </div>
