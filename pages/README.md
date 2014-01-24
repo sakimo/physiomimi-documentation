@@ -7,9 +7,9 @@
 ### Physio-MIMI VISAGE Interface
 >VISAGE (VISual AGgregator and Explorer) is the query interface developed for Physio-MIMI. The goal is for VISAGE to be directly used by clinical researchers, for activities such as data exploration seeking to formulate, clarify, and determine the availability of support for potential hypotheses as well as for cohort identification for clinical trials.
 
-> VISAGE has two main components: 
+> VISAGE has two main components:
 
-> 1. Query Builder, with terminology support and visual controls such as slider bar and checkboxes; 
+> 1. Query Builder, with terminology support and visual controls such as slider bar and checkboxes;
 
 > 2. Query Manager, which stores and labels queries for reuse and sharing.
 
@@ -17,8 +17,8 @@
 
 <div class="panel panel-default">
   <div class="panel-body">
-  <a href=":images_path:/physiomimi-01-login.png?inline=1">
-    <img src=":images_path:/physiomimi-01-login.png">
+  <a href=":images_path:/tutorial/physiomimi-01-login.png?inline=1">
+    <img src=":images_path:/tutorial/physiomimi-01-login.png">
   </a>
   </div>
   <div class="panel-footer">
@@ -26,15 +26,15 @@
   </div>
 </div>
 
-> After you successfully login, you will see the **Query Builder** page<sup>[Fig02]</sup>. 
+> After you successfully login, you will see the **Query Builder** page<sup>[Fig02]</sup>.
 
-* In the "Area for data source selection" (red box 1), you can select data sources of interest (e.g., SHHS). 
+* In the "Area for data source selection" (red box 1), you can select data sources of interest (e.g., SHHS).
 
-* In the "Area for searching variable term" (red box 2), you can search for a specific variable term like "ahi" in the text box. Then a list of candidate variable terms, which partially match the search term, are automatically displayed. 
+* In the "Area for searching variable term" (red box 2), you can search for a specific variable term like "ahi" in the text box. Then a list of candidate variable terms, which partially match the search term, are automatically displayed.
 
-* Clicking an appropriate candidate term (red arrow) will add a corresponding individual query widget to the "Area for query composition" (red box 3), where you can specify the query based on the "shhs1" table only or both tables "shhs1" and "shhs2" using checkboxes. 
+* Clicking an appropriate candidate term (red arrow) will add a corresponding individual query widget to the "Area for query composition" (red box 3), where you can specify the query based on the "shhs1" table only or both tables "shhs1" and "shhs2" using checkboxes.
 
-* In the "Area for grouping query widgets" (red box 4), you can logically group query widgets by flipping the Boolean connectors, such as ANDs and ORs. 
+* In the "Area for grouping query widgets" (red box 4), you can logically group query widgets by flipping the Boolean connectors, such as ANDs and ORs.
 
 * Clicking the "Query" button on the bottom right corner of the "Area for query composition" will generate the number of unique patients satisfying the composed query criteria.
 
