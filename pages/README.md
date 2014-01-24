@@ -40,8 +40,8 @@
 
 <div class="panel panel-default">
   <div class="panel-body">
-  <a href=":images_path://physiomimi-02-querybuilder.png?inline=1">
-    <img src=":images_path://physiomimi-02-querybuilder.png">
+  <a href=":images_path:/tutorial/physiomimi-02-querybuilder.png?inline=1">
+    <img src=":images_path:/tutorial/physiomimi-02-querybuilder.png">
   </a>
   </div>
   <div class="panel-footer">
@@ -53,8 +53,8 @@
 
 <div class="panel panel-default">
   <div class="panel-body">
-  <a href=":images_path://physiomimi-03-savequery.png?inline=1">
-    <img src=":images_path://physiomimi-03-savequery.png">
+  <a href=":images_path:/tutorial/physiomimi-03-savequery.png?inline=1">
+    <img src=":images_path:/tutorial/physiomimi-03-savequery.png">
   </a>
   </div>
   <div class="panel-footer">
@@ -66,8 +66,8 @@
 
 <div class="panel panel-default">
   <div class="panel-body">
-  <a href=":images_path://physiomimi-04-querymanager.png?inline=1">
-    <img src=":images_path://physiomimi-04-querymanager.png">
+  <a href=":images_path:/tutorial/physiomimi-04-querymanager.png?inline=1">
+    <img src=":images_path:/tutorial/physiomimi-04-querymanager.png">
   </a>
   </div>
   <div class="panel-footer">
