@@ -15,8 +15,8 @@ VISAGE has two main components:
 
 ## Tutorials
 
-- [00 - Query Builder](:pages_path:/00-querybuilder.md)
-- [01 - Query Manager](:pages_path:/01-querymanager.md)
+- [Tutorial 1 - Query Builder](:pages_path:/tutorial-1-query-builder.md)
+- [Tutorial 2 - Query Manager](:pages_path:/tutorial-2-query-manager.md)
 
 ## Publications related to Physio-MIMI
 

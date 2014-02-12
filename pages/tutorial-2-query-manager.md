@@ -1,4 +1,4 @@
-## 01 Query Manager
+## Tutorial 2 - Query Manager
 
 The Query Manager allows researchers to 
 
@@ -6,7 +6,7 @@ The Query Manager allows researchers to
 * retrieve record information on the queries, and 
 * share queries with other users. 
 
-Clicking the sub menu **MANAGER** under the menu **QUERY** will lead you to the Query Manager page https://mimi.case.edu/queries/manager<sup>[Fig04]</sup>. Clicking a name of a saved query like "Sample Query" (red box 1) will link to the [Query Builder](:pages_path:/00-querybuilder.md) page with query widgets automatically displayed for the saved query. You can add users to share the query (red box 2).
+Clicking the sub menu **MANAGER** under the menu **QUERY** will lead you to the Query Manager page https://mimi.case.edu/queries/manager<sup>[Fig04]</sup>. Clicking a name of a saved query like "Sample Query" (red box 1) will link to the [Query Builder](:pages_path:/tutorial-1-query-builder.md) page with query widgets automatically displayed for the saved query. You can add users to share the query (red box 2).
 
 <div class="panel panel-default">
   <div class="panel-body">
@@ -22,5 +22,5 @@ Clicking the sub menu **MANAGER** under the menu **QUERY** will lead you to the 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
 <div class="center">
-  <a href=":pages_path:/00-querybuilder.md" class="btn btn-lg btn-success">&laquo; Previous Step: 00 Query Builder </a>
+  <a href=":pages_path:/tutorial-1-query-builder.md" class="btn btn-lg btn-success">&laquo; Previous Step: Tutorial 1 - Query Builder </a>
 </div>
