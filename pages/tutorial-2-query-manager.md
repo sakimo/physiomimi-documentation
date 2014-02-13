@@ -22,5 +22,5 @@ Clicking the sub menu **MANAGER** under the menu **QUERY** will lead you to the 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
 <div class="center">
-  <a href=":pages_path:/tutorial-1-query-builder.md" class="btn btn-lg btn-success">&laquo; Previous Step: Tutorial 1 - Query Builder </a>
+  <a href=":pages_path:/tutorial-1-query-builder.md" class="btn btn-lg btn-success">&laquo; Tutorial 1 - Query Builder </a>
 </div>

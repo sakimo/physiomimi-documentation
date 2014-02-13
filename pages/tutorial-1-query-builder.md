@@ -50,5 +50,5 @@ While you are exploring or done with the query composition, you can also scroll 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
 <div class="center">
-  <a href=":pages_path:/tutorial-2-query-manager.md" class="btn btn-lg btn-success">Next Step: Tutorial 2 - Query Manager &raquo;</a>
+  <a href=":pages_path:/tutorial-2-query-manager.md" class="btn btn-lg btn-success">Tutorial 2 - Query Manager &raquo;</a>
 </div>
