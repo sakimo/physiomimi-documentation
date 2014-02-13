@@ -50,5 +50,14 @@ While you are exploring or done with the query composition, you can also scroll 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
 <div class="center">
-  <a href=":pages_path:/tutorial-2-query-manager.md" class="btn btn-lg btn-success">Tutorial 2 - Query Manager &raquo;</a>
+  <div class="btn-group">
+    <a href=":pages_path:/README.md" class="btn btn-default">
+      <span class="glyphicon glyphicon-chevron-up"></span>
+      Physio-MIMI Overview
+    </a>
+    <a href=":pages_path:/tutorial-2-query-manager.md" class="btn btn-success">
+      Tutorial 2 - Query Manager
+      <span class="glyphicon glyphicon-chevron-right"></span>
+    </a>
+  </div>
 </div>

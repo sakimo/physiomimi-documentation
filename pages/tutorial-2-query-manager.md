@@ -22,5 +22,14 @@ Clicking the sub menu **MANAGER** under the menu **QUERY** will lead you to the 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
 <div class="center">
-  <a href=":pages_path:/tutorial-1-query-builder.md" class="btn btn-lg btn-success">&laquo; Tutorial 1 - Query Builder </a>
+  <div class="btn-group">
+    <a href=":pages_path:/README.md" class="btn btn-default">
+      <span class="glyphicon glyphicon-chevron-up"></span>
+      Physio-MIMI Overview
+    </a>
+    <a href=":pages_path:/tutorial-1-query-builder.md" class="btn btn-default">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      Tutorial 1 - Query Builder
+    </a>
+  </div>
 </div>
