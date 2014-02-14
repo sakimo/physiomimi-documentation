@@ -34,7 +34,7 @@ After you successfully login, you will see the **Query Builder** page<sup>[Fig02
   </div>
 </div>
 
-While you are exploring or done with the query composition, you can also scroll down and save constructed query<sup>[Fig03]</sup>. Clicking the "Save Query" button will lead you to the [Query Manager](:pages_path:/tutorial-2-query-manager.md) page, where you can manage the saved queries. 
+While you are exploring or done with the query composition, you can also scroll down and save constructed query<sup>[Fig03]</sup>. Clicking the "Save Query" button will lead you to the [Query Manager](:pages_path:/2-query-manager.md) page, where you can manage the saved queries. 
 
 <div class="panel panel-default">
   <div class="panel-body">
@@ -55,7 +55,7 @@ While you are exploring or done with the query composition, you can also scroll 
       <span class="glyphicon glyphicon-chevron-up"></span>
       Physio-MIMI Overview
     </a>
-    <a href=":pages_path:/tutorial-2-query-manager.md" class="btn btn-success">
+    <a href=":pages_path:/2-query-manager.md" class="btn btn-success">
       Tutorial 2 - Query Manager
       <span class="glyphicon glyphicon-chevron-right"></span>
     </a>
